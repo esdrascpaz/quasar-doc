@@ -1,0 +1,4 @@
+> npm i
+> npm i -g @quasar/cli ?
+> npm init quasar ?
+> npx quasar dev
