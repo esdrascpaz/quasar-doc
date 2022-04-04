@@ -28,6 +28,8 @@ export default defineComponent({
   components: {},
   methods: {
     navigate(router = "") {
+
+      
       // Por padrão é vazio
       this.$router.push(router); // $router é um methodo do vue
     },
